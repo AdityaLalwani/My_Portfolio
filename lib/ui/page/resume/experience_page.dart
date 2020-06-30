@@ -14,6 +14,12 @@ class Experience extends StatelessWidget {
                   child: ListView(
                     children: <Widget>[
                       Carde(
+                        head: "Flutter Hackathon 2020",
+                        exp: "48 Hours ",
+                        body:
+                            "Retro theme based Old Games we used to play before.",
+                      ),
+                      Carde(
                         head: "Research Internship",
                         exp: "1 month ",
                         body:
